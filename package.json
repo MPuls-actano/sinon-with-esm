@@ -1,0 +1,17 @@
+{
+  "name": "stub-esm-modules-with-sinon",
+  "version": "1.0.0",
+  "description": "Test for stubbing ECMAScript modules with sinon",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Michael Puls",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.1.0",
+    "sinon": "^19.0.2"
+  }
+}
